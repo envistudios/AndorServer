@@ -1,0 +1,10 @@
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\RegionServer.dll
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\RegionServer.pdb
+C:\Users\user\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.pdb
+D:\Projects\Photon Server\deploy\AndorServer\bin\RegionServer.dll
+D:\Projects\Photon Server\deploy\AndorServer\bin\RegionServer.pdb
+D:\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.csprojResolveAssemblyReference.cache
+D:\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.dll
+D:\Projects\Unity 3D\AndorServer\RegionServer\obj\Release\RegionServer.pdb

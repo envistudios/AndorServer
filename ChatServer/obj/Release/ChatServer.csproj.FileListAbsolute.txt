@@ -1,0 +1,12 @@
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\ChatServer.dll
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\ChatServer.pdb
+C:\Users\user\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.pdb
+D:\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+D:\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+D:\Projects\Photon Server\deploy\AndorServer\bin\ChatServer.dll
+D:\Projects\Photon Server\deploy\AndorServer\bin\ChatServer.pdb
+D:\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.dll
+D:\Projects\Unity 3D\AndorServer\ChatServer\obj\Release\ChatServer.pdb

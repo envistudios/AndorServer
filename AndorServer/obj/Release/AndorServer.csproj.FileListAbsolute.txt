@@ -1,0 +1,12 @@
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\AndorServer.dll
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\AndorServer.pdb
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.pdb
+D:\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.csprojResolveAssemblyReference.cache
+D:\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+D:\Projects\Photon Server\deploy\AndorServer\bin\AndorServer.dll
+D:\Projects\Photon Server\deploy\AndorServer\bin\AndorServer.pdb
+D:\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.dll
+D:\Projects\Unity 3D\AndorServer\AndorServer\obj\Release\AndorServer.pdb

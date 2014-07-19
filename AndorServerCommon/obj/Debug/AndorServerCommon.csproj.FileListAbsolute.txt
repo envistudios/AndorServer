@@ -1,0 +1,6 @@
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServerCommon\bin\Debug\AndorServerCommon.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServerCommon\bin\Debug\AndorServerCommon.pdb
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\AndorServerCommon.dll
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\AndorServerCommon.pdb
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServerCommon\obj\Debug\AndorServerCommon.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\AndorServerCommon\obj\Debug\AndorServerCommon.pdb

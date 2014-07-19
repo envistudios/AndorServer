@@ -1,0 +1,12 @@
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\LoginServer.dll
+C:\Users\user\Projects\Photon Server\deploy\AndorServer\bin\LoginServer.pdb
+C:\Users\user\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.dll
+C:\Users\user\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.pdb
+D:\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+D:\Projects\Photon Server\deploy\AndorServer\bin\log4net.config
+D:\Projects\Photon Server\deploy\AndorServer\bin\LoginServer.dll
+D:\Projects\Photon Server\deploy\AndorServer\bin\LoginServer.pdb
+D:\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.dll
+D:\Projects\Unity 3D\AndorServer\LoginServer\obj\Release\LoginServer.pdb
